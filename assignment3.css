@@ -1,0 +1,17 @@
+ body {
+  background:red;
+  color: blue;
+  font-family:normal;
+}
+.container {
+  display: block;
+  background:yellow;
+  width: 500px;
+  margin: 80px auto  ;
+  padding:30px;
+}
+label{
+font-Weight:300;
+font-size:18px;
+color:red;
+}
